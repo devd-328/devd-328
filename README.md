@@ -12,8 +12,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devd-328&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devd-328&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devd-328&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<iframe src="https://api.badgr.io/public/assertions/PhWsTmEnSFOiPl2Llv1Ghg?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=devd66418%40gmail.com" title="Badge: Postman API Fundamentals Student Expert" style="width: 330px; height: 191px; border: 0px;"></iframe>
-
----
