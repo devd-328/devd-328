@@ -11,13 +11,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=devd-328&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devd-328&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devd-328&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<details>
+
   <summary><b>GSSOC(24) Badges 🪶</b></summary>
   <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap: 10px;">
     <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
       <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman White Badge" />
     </a>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" alt="Badge 1" />
   </div>
-</details>
+
 
