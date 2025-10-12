@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently sharpening my programming skills<br>🤝 Open to collaborating on open-source projects<br>🌱 Diving deep into Data Structures and Algorithms<br>⚡ Fun fact: I'm passionate about cybersecurity and love contributing to the open-source community!
+🔭 Currently sharpening my programming skills<br>🤝 Open to collaborating on open-source projects<br>🌱 Diving deep into Data Structures and Algorithms<br>⚡ I'm passionate about cybersecurity and love contributing to the open-source community!
 
 
 ## 🌐 Socials:
