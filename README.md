@@ -1,5 +1,69 @@
-# 💫 About Me:
-🛠️ I’m currently working on  <br>Building an AI SaaS project using React, Next.js, Supabase, and free AI APIs (Gemini + Groq).<br><br>👯‍♂️ I’m looking to collaborate on  <br>AI-powered web apps, SaaS tools, and modern Next.js full-stack projects.<br><br>🤝 I’m looking for help with <br>Backend optimization, Supabase best practices, and Stripe webhook flows and AI tools.<br><br>🌱 I’m currently learning  <br>- Serverless APIs & Webhooks  <br>- Authentication & Realtime DB  <br>- Scalable full-stack structure  <br>- AI API integrations for real apps<br><br>⚡ Fun fact  <br>I turn ideas into MVPs very fast and love experimenting with new AI tools.<br>
+# 👋 Hi, I'm Dev Das
+
+### 🚀 Full-Stack Developer | AI Enthusiast | MVP Builder
+
+I'm passionate about building AI-powered web applications and turning ideas into reality fast. Currently focused on creating scalable SaaS products using modern web technologies.
+
+---
+
+## 🛠️ Current Project
+
+**AI SaaS Platform** - Building an intelligent SaaS application leveraging:
+- ⚛️ **Frontend:** React + Next.js
+- 🗄️ **Backend:** Supabase (Auth, Database, Realtime)
+- 🤖 **AI Integration:** Gemini & Groq APIs
+- 💳 **Payments:** Stripe webhooks
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm looking to collaborate on:
+- 🤖 AI-powered web applications
+- 💼 SaaS tools and platforms
+- ⚡ Modern Next.js full-stack projects
+- 🎨 Innovative developer tools
+
+**Let's build something amazing together!**
+
+---
+
+## 🌱 Currently Learning
+
+Deepening my expertise in:
+- **Serverless Architecture** - APIs & Webhooks at scale
+- **Authentication Systems** - Secure user management & session handling
+- **Real-time Databases** - Live data synchronization with Supabase
+- **Full-Stack Architecture** - Scalable project structure & best practices
+- **AI Integration** - Practical implementation of LLMs in production apps
+
+---
+
+## 🙏 Looking for Help With
+
+- 🔧 Backend optimization strategies
+- 📚 Supabase best practices and advanced patterns
+- 💰 Stripe webhook implementation and testing
+- 🤖 AI tool integration and prompt engineering
+
+Feel free to reach out if you have experience in these areas!
+
+---
+
+## ⚡ Fun Fact
+
+I have a superpower: **turning ideas into MVPs at lightning speed** ⚡  
+I love experimenting with cutting-edge AI tools and pushing the boundaries of what's possible with modern web technologies.
+
+---
+
+<div align="center">
+
+**💡 "The best way to predict the future is to build it."**
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devdas.tech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-das-cyber) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devdas.tech10@gmail.com) 
