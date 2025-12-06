@@ -52,7 +52,7 @@ Feel free to reach out if you have experience in these areas!
 
 ## ⚡ Fun Fact
 
-I have a superpower: **turning ideas into MVPs at lightning speed** ⚡  
+I love: **turning ideas into MVPs** ⚡  
 I love experimenting with cutting-edge AI tools and pushing the boundaries of what's possible with modern web technologies.
 
 ---
