@@ -64,5 +64,5 @@ Built with a clean MySQL-backed product listing system and farmer profiles.
 If you need a full-stack developer who can take your idea from zero to live, I'm available for remote work and freelance projects.
 
 - 🌐 [devdas.tech](https://devdas.tech)
-- 💼 [linkedin.com/in/dev-das-cyber](https://linkedin.com/in/dev-das-cyber)
+- 💼 [linkedin.com/in/dev-das-webdev](https://www.linkedin.com/in/dev-das-webdev/)
 - 📧 devdas.tech10@gmail.com
