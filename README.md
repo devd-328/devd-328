@@ -66,7 +66,3 @@ If you need a full-stack developer who can take your idea from zero to live, I'm
 - 🌐 [devdas.tech](https://devdas.tech)
 - 💼 [linkedin.com/in/dev-das-cyber](https://linkedin.com/in/dev-das-cyber)
 - 📧 devdas.tech10@gmail.com
-
----
-
-![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devd-328&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
