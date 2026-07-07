@@ -26,7 +26,7 @@ Personal finance PWA with multi-user debt tracking and a Groq-powered AI financi
 ---
 
 ### [ConnectSquare](https://connectsquare.me) · `LIVE`
-Full-stack event discovery and volunteering platform for Pakistani students. Role-based access control, admin approval workflows, secure auth — all production-grade.
+Full-stack event discovery and volunteering platform for Pakistani students. Role-based access control, admin approval workflows, secure auth, all production-grade.
 
 `Next.js` `React` `Supabase` `Tailwind CSS`
 
@@ -74,15 +74,30 @@ Farm-to-table MVC platform connecting farmers directly with consumers. Built wit
 
 ## 📊 GitHub Performance
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devd-328&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27&title_color=10b981&icon_color=34d399&text_color=38bdae" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devd-328&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=1a1b27&title_color=10b981&text_color=38bdae" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devd-328&theme=tokyonight&hide_border=true&background=1a1b27&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" />
+</p>
+
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devd-328&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27&title_color=10b981&icon_color=34d399&text_color=38bdae)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devd-328&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=1a1b27&title_color=10b981&text_color=38bdae)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devd-328&theme=tokyo-night&hide_border=true&area=true)](https://github.com/devd-328)
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devd-328/devd-328/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/devd-328/devd-328/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/devd-328/devd-328/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
