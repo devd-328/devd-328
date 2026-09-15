@@ -75,12 +75,12 @@ Farm-to-table MVC platform connecting farmers directly with consumers. Built wit
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=devd-328&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1a1b27&title_color=10b981&icon_color=34d399&text_color=38bdae" alt="GitHub Stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/devd-328/devd-328/main/profile/stats.svg" alt="GitHub Stats" width="48%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=devd-328&layout=compact&langs_count=10&hide_border=true&bg_color=1a1b27&title_color=10b981&text_color=38bdae" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devd-328&hide_border=true&background=1a1b27&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/devd-328/devd-328/main/profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 <div align="center">
